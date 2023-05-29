@@ -23,5 +23,5 @@ Footer responsivo utilizando HTML e CSS.
 
 ## ❤️ Visualização:
 
-(https://github.com/rodrigomicrosiga/responsive-footer/blob/develop/showme.png)
+(showme.png)
 
