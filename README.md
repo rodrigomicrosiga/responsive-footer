@@ -23,5 +23,5 @@ Footer responsivo utilizando HTML e CSS.
 
 ## ❤️ Visualização:
 
-(showme.png)
+![](/showme.png)
 
